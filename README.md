@@ -19,3 +19,9 @@ Useful Github Resources
 
 Interesting Github Resources
 * https://github.com/mame/doublehelix
+
+
+Coding Style Guides
+* https://github.com/davetron5000/ruby-style
+
+
